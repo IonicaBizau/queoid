@@ -1,0 +1,20 @@
+{
+  "name": "queoid",
+  "version": "1.0.0",
+  "description": "A stupid simple and low-level queue library.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "queue",
+    "simple",
+    "low",
+    "level"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT"
+}
