@@ -16,5 +16,13 @@
     "level"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/queoid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/queoid/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/queoid#readme"
 }
