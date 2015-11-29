@@ -34,6 +34,7 @@ q.push(function (bar, num, cb) {
 // Start the execution
 q.start(function (result) {
     console.log(result);
+    // => [ { '0': 42 }, { '0': 'Foo bar 42' }, { '0': 'Baz' } ]
 });
 
 // Push another function after starting the execution
