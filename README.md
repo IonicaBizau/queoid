@@ -1,6 +1,6 @@
-# queoid [![Support this project][donate-now]][paypal-donations]
+# queoid [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/queoid.svg)](https://www.npmjs.com/package/queoid) [![Downloads](https://img.shields.io/npm/dt/queoid.svg)](https://www.npmjs.com/package/queoid) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-A stupid simple and low-level queue library.
+> A stupid simple and low-level queue library.
 
 ## Installation
 
