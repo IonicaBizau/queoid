@@ -1,6 +1,6 @@
 {
   "name": "queoid",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "A stupid simple and low-level queue library.",
   "main": "lib/index.js",
   "directories": {
@@ -15,7 +15,7 @@
     "low",
     "level"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,12 +29,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
