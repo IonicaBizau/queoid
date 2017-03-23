@@ -1,6 +1,6 @@
 {
   "name": "queoid",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "A stupid simple and low-level queue library.",
   "main": "lib/index.js",
   "directories": {
