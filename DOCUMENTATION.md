@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Creates a new function queue.
 
 #### Params
+
 - **Function** `fn`: The function to call when the queue is ended.
 
 ### `done()`
@@ -19,6 +20,7 @@ Checks the state of the queue and runs the next function.
 Adds a new function in the queue.
 
 #### Params
+
 - **Function** `fn`: The function to push in the queue.
 - **Array** `args`: The arguments used to call the function.
 
@@ -26,5 +28,6 @@ Adds a new function in the queue.
 Start the function queue execution.
 
 #### Params
+
 - **Function** `fn`: The function to call when the queue is ended.
 
